@@ -9,7 +9,7 @@ Requires MATLAB's Model Predictive Control toolbox!.
 ## Video
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/t-gdGla0xOs" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/t-gdGla0xOs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 [Youtube link](https://youtu.be/t-gdGla0xOs)

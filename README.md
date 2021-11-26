@@ -8,6 +8,8 @@ Requires MATLAB's Model Predictive Control toolbox!.
 
 ## Video
 
-![](video.mp4)
+<figure class="video_container">
+  <iframe src="https://youtu.be/t-gdGla0xOs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 [Youtube link](https://youtu.be/t-gdGla0xOs)
